@@ -1,22 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # <center> <u> Feature Selection </u> </center>
-
-# <h2>Purpose of Feature Selection</h2>
-# <p>Many learning algorithms perform poorly on high-dimensional data. This is known as the <b>curse of dimensionality</b>
-#     <p>There are other reasons we may wish to reduce the number of features including:
-#         <p>1. Reducing computational cost
-#             <p>2. Reducing the cost associated with data collection
-#                 <p>3. Improving Interpretability
-
-# **Problem Statement:**
-# 
-# Build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes
-
-# In[1]:
-
-
 #import numpy, pandas 
 
 import numpy as np
